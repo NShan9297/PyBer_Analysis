@@ -27,7 +27,7 @@ The pie charts below show the percentages of riders and drivers in each city typ
 
 ![Fig7](https://user-images.githubusercontent.com/99927324/164956612-04d20a0f-f0a6-4c05-977b-f4822fc7fee8.png)
 
-
+We are  able to see that the Urban Cities account for more than half of the rides and drivers of the 3 city types. 
 
 Taking a deeper look, below we have a scatter plot showing the average fare amount and the number of rides by the city type
 Here, we see that the Rural city types have the highest fares on average and the lowest ride rates of the 3 city types
