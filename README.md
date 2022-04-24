@@ -30,4 +30,6 @@ Taking a deeper look, below we have a scatter plot showing the average fare amou
 
 ![Fig1](https://user-images.githubusercontent.com/99927324/164956666-d16547e6-9bd0-4d24-9ea1-93f7e18def8d.png)
 
+Here, we see that the Rural city types have the highest fares on average coupled with the lowest ride rates of the 3 city types. 
+
 ## **Summary** ##
