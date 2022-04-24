@@ -48,9 +48,11 @@ This figure shows the total number of rides, drives, total fares spent on rides,
 ## **Summary** ##
 
 **Urban Cities**
-The Urban cities account for about 68% of the total rides by city type but the number of drivers makes up ~80% of the total drivers. There are about 1.5 x the number of drivers than riders. This suggests that the Urban cities, overall, may have a few too many drivers available. If there are drivers idling and missing rides due to a low demand with respect to available drivers, the CEO may want to attemp to divert some of these drivers to the suburban cities. This move should be ok as the price point 
+The Urban cities account for about 68% of the total rides by city type but the number of drivers makes up ~80% of the total drivers. There are about 1.5 x the number of drivers than riders. We would expect to see percentages that more closely resemble each other like we see with rural rides. This suggests that the Urban cities, overall, may have too many drivers. If there are drivers idling and missing rides due to a low demand with respect to available drivers, the CEO may want to attemp to divert some of these drivers to the suburban cities.
 
 **Suburban Cities**
+We know that there are not enough drivers in suburban cities as they are the only one out of the 
+
 
 **Rural Cities**
 
