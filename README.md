@@ -25,4 +25,9 @@ Overall, results show that there is a higher concentration of drivers and riders
 ![Fig7](https://user-images.githubusercontent.com/99927324/164956612-04d20a0f-f0a6-4c05-977b-f4822fc7fee8.png)
 
 
+Taking a deeper look, below we have a scatter plot showing the average fare amount and the number of rides by the city type:
+
+
+![Fig1](https://user-images.githubusercontent.com/99927324/164956666-d16547e6-9bd0-4d24-9ea1-93f7e18def8d.png)
+
 ## **Summary** ##
