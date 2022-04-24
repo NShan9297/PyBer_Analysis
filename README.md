@@ -25,11 +25,11 @@ Overall, results show that there is a higher concentration of drivers and riders
 ![Fig7](https://user-images.githubusercontent.com/99927324/164956612-04d20a0f-f0a6-4c05-977b-f4822fc7fee8.png)
 
 
-Taking a deeper look, below we have a scatter plot showing the average fare amount and the number of rides by the city type:
-
+Taking a deeper look, below we have a scatter plot showing the average fare amount and the number of rides by the city type
+Here, we see that the Rural city types have the highest fares on average and the lowest ride rates of the 3 city types
 
 ![Fig1](https://user-images.githubusercontent.com/99927324/164956666-d16547e6-9bd0-4d24-9ea1-93f7e18def8d.png)
 
-Here, we see that the Rural city types have the highest fares on average coupled with the lowest ride rates of the 3 city types. 
+
 
 ## **Summary** ##
