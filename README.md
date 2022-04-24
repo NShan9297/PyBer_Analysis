@@ -35,7 +35,7 @@ Here, we see that the Rural city types have the highest fares on average and the
 
 
 
-This figure shows the total number of rides, drives, total fares spent on rides, average fares per ride and the average pay to driver:
+This figure shows the total number of rides, drives, total fares spent on rides, average fares per ride and the average pay to drivers-based on city type:
 
 ![image](https://user-images.githubusercontent.com/99927324/164956780-dcfdaf85-280a-48a1-a497-cad6b0a68c1f.png)
 
