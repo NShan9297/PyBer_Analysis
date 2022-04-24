@@ -24,6 +24,10 @@ Overall, results show that there is a higher concentration of drivers and riders
 
 ![Fig7](https://user-images.githubusercontent.com/99927324/164956612-04d20a0f-f0a6-4c05-977b-f4822fc7fee8.png)
 
+This figure shows the total number of rides, drives, total fares spent on rides, average fares per ride and the average pay to driver:
+
+![image](https://user-images.githubusercontent.com/99927324/164956780-dcfdaf85-280a-48a1-a497-cad6b0a68c1f.png)
+
 
 Taking a deeper look, below we have a scatter plot showing the average fare amount and the number of rides by the city type
 Here, we see that the Rural city types have the highest fares on average and the lowest ride rates of the 3 city types
