@@ -56,6 +56,7 @@ The Urban cities account for about 68% of the total rides by city type but the n
 The data collected suggests that there are not enough drivers in these areas. At ~30% of the total rides, the percentage of drivers being at about a 4th of total drivers does not seem to be a good model. When looking at the dataframe,we see when compared to Urban and Rural cities, there is the most impactful disparity between rides and drivers. This is likely what is driving up the price for riders in this area as they are more simlar to rural prices than urban prices. Based on knowledge of city types, one would expect that the price be more similar to the urban areas because they are more similar to one another.
 
 **Rural Cities**
+
 Based on the data, the amount of drivers in the rural areas is at about where it should be. There is not a significant difference between the rides and drivers in these areas. The percentages of Drivers and Rides are about the same as seen in the pie chart above. This suggests there is eqilibrium. 
 
 
