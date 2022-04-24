@@ -17,7 +17,9 @@ Pandas
 
 ## **Results** ##
 
-Overall, results show that there is a higher concentration of drivers and riders in urban areas. While the lowest concentration of riders and drivers is in rural cities/towns. Suburban city types fall somewhere in between. 
+Overall, results show that there is a higher concentration of drivers and riders in the Urban cities. While the lowest concentration of riders and drivers is in Rural cities/towns. Suburban city types fall somewhere in between. The average fares for Rural areas are the highest and the Urban areas are the lowest. We also see that the average pay per driver is the highest in rural areas, and the lowest in Urban areas. 
+
+
 
 The pie charts below show the percentages of riders and drivers in each city type of all the ride info collected:
 
