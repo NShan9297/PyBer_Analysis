@@ -47,4 +47,9 @@ This figure shows the total number of rides, drives, total fares spent on rides,
 
 ## **Summary** ##
 
-3 business recommentaions to the CEO for any disparities among the city types. 
+**Urban Cities**
+
+**Suburban Cities**
+
+**Rural Cities**
+
