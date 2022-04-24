@@ -48,6 +48,7 @@ This figure shows the total number of rides, drives, total fares spent on rides,
 ## **Summary** ##
 
 **Urban Cities**
+The Urban cities account for about 68% of the total rides by city type. 
 
 **Suburban Cities**
 
